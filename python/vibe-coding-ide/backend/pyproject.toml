@@ -13,7 +13,7 @@ dependencies = [
   "fastapi~=0.117.0",
   "uvicorn",
   "openai-agents[litellm]",
-  "PyJWT==2.9.0",
+  "PyJWT==2.12.0",
   "vercel>=0.3.2",
   "httpx",
   "httpx-sse",
