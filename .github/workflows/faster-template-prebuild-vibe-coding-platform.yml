@@ -1,5 +1,8 @@
 name: Prebuild Vibe Coding Platform
 
+permissions:
+  contents: read
+
 on:
   push:
     branches:
