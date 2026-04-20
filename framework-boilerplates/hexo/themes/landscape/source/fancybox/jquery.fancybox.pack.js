@@ -1034,7 +1034,7 @@
       this.overlay && this.close();
       d = b.coming ? b.coming.parent : a.parent;
       this.overlay = f('<div class="fancybox-overlay"></div>').appendTo(
-        d && d.lenth ? d : 'body'
+        d && d.length ? d : 'body'
       );
       this.fixed = !1;
       a.fixed &&
