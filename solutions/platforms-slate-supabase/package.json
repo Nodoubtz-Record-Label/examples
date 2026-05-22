@@ -23,7 +23,7 @@
     "fs": "0.0.1-security",
     "gray-matter": "^4.0.3",
     "is-hotkey": "^0.2.0",
-    "js-cookie": "^3.0.1",
+    "js-cookie": "^3.0.7",
     "next": "^16.0.10",
     "next-auth": "^4.20.1",
     "next-mdx-remote": "^3.0.8",
